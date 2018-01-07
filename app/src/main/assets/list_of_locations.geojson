@@ -1,0 +1,158 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "3998 Gramercy St, Columbus, Ohio 43219, United States",
+        "name": "Easton",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-476-5364"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.917665,
+          40.051791
+        ],
+        "type": "Point"
+      },
+      "id": "address.11780104298749790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "714 N High St, Columbus, Ohio 43215, United States",
+        "name": "North Market",
+        "hours": "10 a.m. to 5 p.m.",
+        "phone": "614-228-9960"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.00418,
+          39.971888
+        ],
+        "type": "Point"
+      },
+      "id": "address.1504101080777130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "900 Mohawk St, Columbus, Ohio 43206, United States",
+        "name": "German Village",
+        "hours": "Noon to 10 p.m.",
+        "phone": "614-445-6513"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.992495,
+          39.944236
+        ],
+        "type": "Point"
+      },
+      "id": "address.18662160207305960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1 W Bridge St, Dublin, Ohio 43017, United States",
+        "name": "Dublin",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-792-5364"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.114164,
+          40.099224
+        ],
+        "type": "Point"
+      },
+      "id": "address.3847501076015100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "2156 E Main St, Columbus, Ohio 43209, United States",
+        "name": "Bexley",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-231-5364"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.941956,
+          39.957461
+        ],
+        "type": "Point"
+      },
+      "id": "address.5795414383633980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "714 N High St, Columbus, Ohio 43215, United States",
+        "name": "Short North",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-294-5364"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.003353,
+          39.976965
+        ],
+        "type": "Point"
+      },
+      "id": "address.748502797349860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "160 S High St, Columbus, Ohio 43215, United States",
+        "name": "The Commons",
+        "hours": "11 a.m. to 8 p.m.",
+        "phone": "614-867-5512"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.999991,
+          39.958812
+        ],
+        "type": "Point"
+      },
+      "id": "address.7894313840035430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "1281 Grandview Ave, Columbus, Ohio 43212, United States",
+        "name": "Grandview Heights",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-488-2680"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.045003,
+          39.983947
+        ],
+        "type": "Point"
+      },
+      "id": "address.8328248295013750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "8 N Liberty St, Powell, Ohio 43065, United States",
+        "name": "Powell",
+        "hours": "11 a.m. to 11 p.m.",
+        "phone": "614-846-1060"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.074985,
+          40.158137
+        ],
+        "type": "Point"
+      },
+      "id": "address.8508074803994320"
+    }
+  ],
+  "type": "FeatureCollection"
+}
